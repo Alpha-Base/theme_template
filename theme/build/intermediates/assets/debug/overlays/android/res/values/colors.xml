@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_deep_teal_200">@*common:color/secondaryaccent</color>
+    <color name="material_blue_grey_950">@*common:color/secondary</color>
+    <color name="system_notification_accent_color">@*common:color/primary</color>
+    <color name="holo_orange_dark">@*common:color/primarydark</color>
+    <color name="material_deep_teal_500">@*common:color/secondaryaccent</color>
+    <color name="holo_orange_light">@*common:color/primary</color>
+    <color name="material_blue_grey_800">@*common:color/primary</color>
+    <color name="material_blue_grey_900">@*common:color/primarydark</color>
+    <color name="user_icon_1">@*common:color/white</color>
+</resources>
